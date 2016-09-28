@@ -34,7 +34,7 @@ public class ErrorDialog extends Dialog implements ActionListener
 		
 		add(tP);
 		add(ok);
-		
+
 		setVisible(true);
 	}
 	
